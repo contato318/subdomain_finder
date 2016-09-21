@@ -9,7 +9,7 @@ You install with pip3 (the script is for python3):
 pip3 install -r requirements.txt
 
 - EXAMPLE USAGE (root):
-# python3.3 subdomain_finder.py  --target alvo.com --scan --uniq-ip
+$ python3.3 subdomain_finder.py  --target alvo.com --scan --uniq-ip
 
 
 
