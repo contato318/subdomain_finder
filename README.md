@@ -8,8 +8,8 @@ Python3, pip3 and nmap
 You install with pip3 (the script is for python3):
 pip3 install -r requirements.txt
 
-- EXAMPLE USAGE:
-$ python3 subdomain_finder.py --target='target.com' --wordlist='wordlist.txt' --threads=150
+- EXAMPLE USAGE (root):
+# python3.3 subdomain_finder.py  --target alvo.com --scan --uniq-ip
 
 
 
